@@ -129,29 +129,36 @@
     }
     NSLog(@"%@", dictionary);
     
-//    if ([responseJSONAsString rangeOfString:@"family_name"].location != NSNotFound) {
-//        NSError *error;
-//        NSMutableDictionary *dictionary = [NSJSONSerialization JSONObjectWithData:responseJSONAsData
-//                                                                          options:NSJSONReadingMutableContainers
-//                                                                            error:&error];
-//        if (error) {
-//            NSLog(@"An error occured while converting JSON data to dictionary.");
-//            return;
-//        }
-//        else{
-//            if (_arrProfileInfoLabel != nil) {
-//                _arrProfileInfoLabel = nil;
-//                _arrProfileInfo = nil;
-//                _arrProfileInfo = [[NSMutableArray alloc] init];
-//            }
-//            
-//            _arrProfileInfoLabel = [[NSMutableArray alloc] initWithArray:[dictionary allKeys] copyItems:YES];
-//            for (int i=0; i<[_arrProfileInfoLabel count]; i++) {
-//                [_arrProfileInfo addObject:[dictionary objectForKey:[_arrProfileInfoLabel objectAtIndex:i]]];
-//            }
-//            
-//            [_tableView reloadData];
-//        }
-//    }
+    NSString *kind = [dictionary objectForKey:@"kind"];
+    if ([kind rangeOfString:@"channelListResponse"].location != NSNotFound){
+        NSMutableArray *items = [dictionary objectForKey:@"items"];
+        NSMutableDictionary *contentDetails = [items[0] objectForKey:@"contentDetails"];
+        NSMutableDictionary *relatedPlaylists = [contentDetails objectForKey:@"relatedPlaylists"];
+        //likes, uploads, watchHistory, favorites, watchLater
+        NSString *watchHistory = [relatedPlaylists objectForKey:@"watchHistory"];
+        NSLog(@"WatchHistory playListID:%@", watchHistory);
+        
+        //Get playlist items
+        [_googleOAuth callAPI:@"https://www.googleapis.com/youtube/v3/playlistItems"
+               withHttpMethod:httpMethod_GET
+           postParameterNames:[NSArray arrayWithObjects:@"part",@"playlistId",nil] postParameterValues:[NSArray arrayWithObjects:@"snippet",watchHistory,nil]];
+
+    }
+    
+    if ([kind rangeOfString:@"playlistItemListResponse"].location != NSNotFound) {
+        NSMutableArray *items = [dictionary objectForKey:@"items"];
+        for(NSMutableDictionary *item in items){
+            NSMutableDictionary *snippet = [item objectForKey:@"snippet"];
+            //Snippet: desciption, thumbnails, publishedAt, channelTitle, playlistId, channelId, resourceId, title
+            NSString *title = [snippet objectForKey:@"title"];
+            //Thumbnails
+            NSMutableDictionary *thumbnails = [snippet objectForKey:@"thumbnails"];
+            NSMutableDictionary *high = [thumbnails objectForKey:@"high"];
+            NSString *thumbnailHighURL = [high objectForKey:@"url"];
+            
+            NSLog(@"Title:%@, ThumbnailUrl:%@", title, thumbnailHighURL);
+        }
+        
+    }
 }
 @end

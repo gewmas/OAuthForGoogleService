@@ -493,7 +493,20 @@ postParameterValues:(NSArray *)values{
         
         
         if (httpMethod == httpMethod_GET) {
-            urlString = [urlString stringByAppendingString:@"&part=contentDetails&mine=true"];
+            // Create an empty string.
+            NSString *postParams = @"&";
+            // Iterrate through all parameters and append every POST parameter to the postParams string.
+            for (int i=0; i<[params count]; i++) {
+                postParams = [postParams stringByAppendingString:[NSString stringWithFormat:@"%@=%@",
+                                                                  [params objectAtIndex:i], [values objectAtIndex:i]]];
+                
+                // If the current parameter is not the last one then add the "&" symbol to separate post parameters.
+                if (i < [params count] - 1) {
+                    postParams = [postParams stringByAppendingString:@"&"];
+                }
+            }
+
+            urlString = [urlString stringByAppendingString:postParams];
         }
         
         
