@@ -1,0 +1,393 @@
+Toauth
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.pch oauth/oauth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.o /Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.o /Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.o /Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.o /Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth normal i386
+cCopyStringsFile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/en.lproj/InfoPlist.strings oauth/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/Michael/Developer/Ojbective-C/oauth/oauth/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app /Users/Michael/Developer/Ojbective-C/oauth/oauth/Images.xcassets
+cProcessInfoPlistFile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Info.plist /Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Info.plist
+cGenerateDSYMFile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth
+cTouch /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000529D406800000000000003B5
+t1386037352
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000529D406C00000000000001A0
+t1386037356
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000529D406E0000000000445870
+t1386037358
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000529D406F000000000088C680
+t1386037359
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000529D40720000000001DB9910
+t1386037362
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000529D40900000000000000AC9
+t1386037392
+s2761
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.pch
+t1391796764
+s108216
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.o
+t1391796764
+s65236
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.o
+t1391796764
+s108184
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.o
+t1391796764
+s85016
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.o
+t1391796764
+s3660
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/oauth.LinkFileList
+c0000000052F5221B0000000000000280
+t1391796763
+s640
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/assetcatalog_dependencies.txt
+t1391796765
+s432
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/assetcatalog_generated_info.plist
+t1391796765
+s525
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app
+t1391796765
+s306
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM
+t2
+s0
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Base.lproj/Main.storyboardc
+t1391796765
+s170
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Info.plist
+t1391796765
+s1007
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/PkgInfo
+t1391796765
+s8
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/en.lproj/InfoPlist.strings
+t1391796764
+s42
+
+N/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth
+t1391796764
+s68632
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m
+c0000000052F51C7A00000000000007D0
+t1391795322
+s2000
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/Base.lproj/Main.storyboard
+c0000000052F5221B0000000000000FE9
+t1391796763
+s4073
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m
+c0000000052F521080000000000005C88
+t1391796488
+s23688
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/Images.xcassets
+c0000000052F51C7A0000000000000088
+t1391795322
+s136
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m
+c0000000052F52216000000000000135E
+t1391796758
+s4958
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/en.lproj/InfoPlist.strings
+c0000000052F51C7A000000000000002D
+t1391795322
+s45
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m
+c0000000052F51C7A000000000000014A
+t1391795322
+s330
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Info.plist
+c0000000052F51C7A00000000000004C9
+t1391795322
+s1225
+
+N/Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Prefix.pch
+c0000000052F51C7A0000000000000158
+t1391795322
+s344
+
+CBuild AST from /Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m
+r0
+
+CBuild AST from /Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m
+r0
+
+CBuild AST from /Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m
+r0
+
+CBuild AST from /Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2e57af9b59a5b841^21e7b59b59a5b841^---0#1#1#--18"Check dependencies36"DCC6AFD2-1C06-44E5-B62A-EACC414DE6B6-
+
+CCompileAssetCatalog /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app /Users/Michael/Developer/Ojbective-C/oauth/oauth/Images.xcassets
+s413489564.902542
+e413489565.774095
+r1
+xCompileAssetCatalog
+x/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app
+x/Users/Michael/Developer/Ojbective-C/oauth/oauth/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/LaunchImage-700-568h@2x.png
+o/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Assets.car
+o/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CompileAssetCatalog DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app oauth/Images.xcassets106"CompileAssetCatalog DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app oauth/Images.xcassets501de79c59a5b841^342cc69d59a5b841^-460"/* com.apple.actool.compilation-results *//Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/LaunchImage-700-568h@2x.png/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Assets.car/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/Images.xcassets/0000000000000000^1214"CompileAssetCatalog DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app oauth/Images.xcassets    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app /Users/Michael/Developer/Ojbective-C/oauth/oauth/Images.xcassets36"DF244920-27A6-454A-AED0-599229D1A82A-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CCompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.o /Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413489564.701139
+e413489564.794652
+r1
+xCompileC
+xDerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.o
+x/Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m214"CompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.o oauth/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler569bb39c59a5b841^d26fcb9c59a5b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m0000000000000000^3879"CompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.o oauth/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-generated-files.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-own-target-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-all-target-headers.hmap -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-project-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources/i386 -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources -F/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator -include /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch -MMD -MT dependencies -MF /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.dia -c /Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.m -o /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.o36"929DED3D-C170-464C-8320-9D59D47A9A16-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CCompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.o /Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413489564.701463
+e413489564.813119
+r1
+xCompileC
+xDerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.o
+x/Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m214"CompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.o oauth/GoogleOAuth.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6cb1b39c59a5b841^132ad09c59a5b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m0000000000000000^3879"CompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.o oauth/GoogleOAuth.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-generated-files.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-own-target-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-all-target-headers.hmap -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-project-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources/i386 -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources -F/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator -include /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch -MMD -MT dependencies -MF /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.d --serialize-diagnostics /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.dia -c /Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.m -o /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.o36"2960B74F-55F2-40AE-B9C8-DAE63384F3F8-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CCompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.o /Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413489564.700820
+e413489564.809856
+r1
+xCompileC
+xDerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.o
+x/Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.h
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/GoogleOAuth.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m220"CompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.o oauth/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa7db39c59a5b841^b553cf9c59a5b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m0000000000000000^3897"CompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.o oauth/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-generated-files.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-own-target-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-all-target-headers.hmap -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-project-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources/i386 -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources -F/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator -include /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch -MMD -MT dependencies -MF /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.dia -c /Users/Michael/Developer/Ojbective-C/oauth/oauth/ViewController.m -o /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.o36"032CCB54-9B96-4903-81C4-2B06438795F6-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CCompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.o /Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413489564.701925
+e413489564.789842
+r1
+xCompileC
+xDerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.o
+x/Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m200"CompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.o oauth/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08ccb39c59a5b841^7b33ca9c59a5b841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m0000000000000000^3837"CompileC DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.o oauth/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-generated-files.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-own-target-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-all-target-headers.hmap -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-project-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources/i386 -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources -F/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator -include /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch -MMD -MT dependencies -MF /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.dia -c /Users/Michael/Developer/Ojbective-C/oauth/oauth/main.m -o /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.o36"2DA22C3F-A197-407E-9DB1-D7DE25F9ED41-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CCompileStoryboard /Users/Michael/Developer/Ojbective-C/oauth/oauth/Base.lproj/Main.storyboard
+s413489564.902181
+e413489565.940324
+r1
+xCompileStoryboard
+x/Users/Michael/Developer/Ojbective-C/oauth/oauth/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"CompileStoryboard oauth/Base.lproj/Main.storyboard50"CompileStoryboard oauth/Base.lproj/Main.storyboardc007e79c59a5b841^88b9f09d59a5b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/Base.lproj/Main.storyboard0000000000000000^863"CompileStoryboard oauth/Base.lproj/Main.storyboard    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Base.lproj/Main.storyboardc /Users/Michael/Developer/Ojbective-C/oauth/oauth/Base.lproj/Main.storyboard36"03990546-B6AE-485E-BC85-D47529B205F4-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CCopyStringsFile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/en.lproj/InfoPlist.strings oauth/en.lproj/InfoPlist.strings
+s413489564.902047
+e413489564.903824
+r1
+xCopyStringsFile
+x/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/en.lproj/InfoPlist.strings
+xoauth/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy oauth/en.lproj/InfoPlist.strings140"CopyStringsFile DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/en.lproj/InfoPlist.strings oauth/en.lproj/InfoPlist.strings8c13e79c59a5b841^dd61e79c59a5b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/en.lproj/InfoPlist.strings0000000000000000^629"CopyStringsFile DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/en.lproj/InfoPlist.strings oauth/en.lproj/InfoPlist.strings    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/en.lproj -- oauth/en.lproj/InfoPlist.strings36"AEF4FC5C-B632-45AB-B730-5B216AC19160-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CGenerateDSYMFile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth
+s413489565.943014
+e413489565.967335
+r1
+xGenerateDSYMFile
+x/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM
+x/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generate /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM157"GenerateDSYMFile DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth8a72f19d59a5b841^1ea4f79d59a5b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM00345007deffdf42^733"GenerateDSYMFile DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth -o /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app.dSYM36"3C4439B8-8AC9-42B2-BBE8-72FE822029C6-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CLd /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth normal i386
+s413489564.813766
+e413489564.901324
+r1
+xLd
+x/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth
+xnormal
+xi386
+d/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/oauth.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/ViewController.o
+d/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/AppDelegate.o
+d/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/GoogleOAuth.o
+d/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth85"Ld DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth normal i3862c62d09c59a5b841^49bee69c59a5b841^---0#0#1#--1501"Ld DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth normal i386    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator -F/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator -filelist /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/oauth.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/Objects-normal/i386/oauth_dependency_info.dat -o /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/oauth36"5E9C3304-A04E-4B8C-A547-23A155E88DB7-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CProcessInfoPlistFile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Info.plist /Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Info.plist
+s413489565.940811
+e413489565.942663
+r1
+xProcessInfoPlistFile
+x/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Info.plist
+x/Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Process /Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Info.plist119"ProcessInfoPlistFile DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Info.plist oauth/oauth-Info.plist65e4f09d59a5b841^7a53f19d59a5b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Info.plist0000000000000000^956"ProcessInfoPlistFile DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Info.plist oauth/oauth-Info.plist    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Info.plist -genpkginfo /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/assetcatalog_generated_info.plist -o /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app/Info.plist36"4A3BF5C4-A2E1-4E7A-8D70-8EEB532AC27B-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CProcessPCH /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.pch oauth/oauth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413489563.711272
+e413489564.699846
+r1
+xProcessPCH
+x/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.pch
+xoauth/oauth-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile oauth/oauth-Prefix.pch221"ProcessPCH DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.pch oauth/oauth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6728b69b59a5b841^c329b39c59a5b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Prefix.pch0000000000000000^3730"ProcessPCH DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.pch oauth/oauth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Michael/Developer/Ojbective-C/oauth    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-generated-files.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-own-target-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-all-target-headers.hmap -iquote /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/oauth-project-headers.hmap -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources/i386 -I/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/oauth.build/Debug-iphonesimulator/oauth.build/DerivedSources -F/Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.d -c /Users/Michael/Developer/Ojbective-C/oauth/oauth/oauth-Prefix.pch -o /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Intermediates/PrecompiledHeaders/oauth-Prefix-hhizghkeepwfaqaexrzbqyoqtgtv/oauth-Prefix.pch.pch36"FB0D65A6-79D9-410D-B0DB-412A5E0B36D7-
+bF79F4175-D6C7-41ED-ACD9-567891BF5AF1
+
+CProcessPCH /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Index/PrecompiledHeaders/oauth-Prefix-bftpuglpzqgwagflaukpyharvxod_ast/oauth-Prefix.pch.pch oauth/oauth-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Michael/Developer/Ojbective-C/oauth/DerivedData/oauth/Build/Products/Debug-iphonesimulator/oauth.app
+r0
+

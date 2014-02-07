@@ -21,6 +21,7 @@
 		4C1760EF18A553FA00B58F42 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C1760D118A553FA00B58F42 /* UIKit.framework */; };
 		4C1760F718A553FA00B58F42 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4C1760F518A553FA00B58F42 /* InfoPlist.strings */; };
 		4C1760F918A553FA00B58F42 /* oauthTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C1760F818A553FA00B58F42 /* oauthTests.m */; };
+		4C17610418A554FF00B58F42 /* GoogleOAuth.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C17610318A554FF00B58F42 /* GoogleOAuth.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		4C1760F418A553FA00B58F42 /* oauthTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "oauthTests-Info.plist"; sourceTree = "<group>"; };
 		4C1760F618A553FA00B58F42 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4C1760F818A553FA00B58F42 /* oauthTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = oauthTests.m; sourceTree = "<group>"; };
+		4C17610218A554FF00B58F42 /* GoogleOAuth.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoogleOAuth.h; sourceTree = "<group>"; };
+		4C17610318A554FF00B58F42 /* GoogleOAuth.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoogleOAuth.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				4C1760DF18A553FA00B58F42 /* Main.storyboard */,
 				4C1760E218A553FA00B58F42 /* ViewController.h */,
 				4C1760E318A553FA00B58F42 /* ViewController.m */,
+				4C17610218A554FF00B58F42 /* GoogleOAuth.h */,
+				4C17610318A554FF00B58F42 /* GoogleOAuth.m */,
 				4C1760E518A553FA00B58F42 /* Images.xcassets */,
 				4C1760D418A553FA00B58F42 /* Supporting Files */,
 			);
@@ -199,6 +204,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Yuhua Mai";
 				TargetAttributes = {
+					4C1760C918A553FA00B58F42 = {
+						DevelopmentTeam = R5K7Y3KE3N;
+					};
 					4C1760EA18A553FA00B58F42 = {
 						TestTargetID = 4C1760C918A553FA00B58F42;
 					};
@@ -251,6 +259,7 @@
 			files = (
 				4C1760E418A553FA00B58F42 /* ViewController.m in Sources */,
 				4C1760DE18A553FA00B58F42 /* AppDelegate.m in Sources */,
+				4C17610418A554FF00B58F42 /* GoogleOAuth.m in Sources */,
 				4C1760DA18A553FA00B58F42 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -378,10 +387,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "oauth/oauth-Prefix.pch";
 				INFOPLIST_FILE = "oauth/oauth-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -391,10 +403,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "oauth/oauth-Prefix.pch";
 				INFOPLIST_FILE = "oauth/oauth-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

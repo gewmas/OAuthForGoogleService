@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "GoogleOAuth.h"
 
 @interface ViewController : UIViewController
-
+@property (nonatomic, strong) NSMutableArray *arrProfileInfo;
+@property (nonatomic, strong) NSMutableArray *arrProfileInfoLabel;
+@property (nonatomic, strong) GoogleOAuth *googleOAuth;
 @end
