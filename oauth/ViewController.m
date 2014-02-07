@@ -74,10 +74,15 @@
 }
 
 - (IBAction)showProfile:(id)sender {
-    [_googleOAuth authorizeUserWithClienID:@"746869634473-hl2v6kv6e65r1ak0u6uvajdl5grrtsgb.apps.googleusercontent.com"
-                           andClientSecret:@"_FsYBVXMeUD9BGzNmmBvE9Q4"
+//    [_googleOAuth authorizeUserWithClienID:@"746869634473-hl2v6kv6e65r1ak0u6uvajdl5grrtsgb.apps.googleusercontent.com"
+//                           andClientSecret:@"_FsYBVXMeUD9BGzNmmBvE9Q4"
+//                             andParentView:self.view
+//                                 andScopes:[NSArray arrayWithObjects:@"https://www.googleapis.com/auth/userinfo.profile", nil]
+//     ];
+    [_googleOAuth authorizeUserWithClienID:@"4881560502-uteihtgcnas28bcjmnh0hfrbk4chlmsa.apps.googleusercontent.com"
+                           andClientSecret:@"R02t8Pk-59eEYy-B359-gvOY"
                              andParentView:self.view
-                                 andScopes:[NSArray arrayWithObjects:@"https://www.googleapis.com/auth/userinfo.profile", nil]
+                                 andScopes:[NSArray arrayWithObjects:@"https://www.googleapis.com/auth/youtube", @"https://www.googleapis.com/auth/youtube.readonly",@"https://www.googleapis.com/auth/youtubepartner",@"https://www.googleapis.com/auth/youtubepartner-channel-audit", nil]
      ];
 }
 - (IBAction)revokeAccess:(id)sender {
@@ -85,9 +90,13 @@
 }
 
 -(void)authorizationWasSuccessful{
-    [_googleOAuth callAPI:@"https://www.googleapis.com/oauth2/v1/userinfo"
+    [_googleOAuth callAPI:@"https://www.googleapis.com/youtube/v3/channels"
            withHttpMethod:httpMethod_GET
-       postParameterNames:nil postParameterValues:nil];
+       postParameterNames:[NSArray arrayWithObjects:@"part",@"mine",nil] postParameterValues:[NSArray arrayWithObjects:@"contentDetails",@"true",nil]];
+    
+//    [_googleOAuth callAPI:@"https://www.googleapis.com/oauth2/v1/userinfo"
+//           withHttpMethod:httpMethod_GET
+//       postParameterNames:nil postParameterValues:nil];
 }
 -(void)accessTokenWasRevoked{
     UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@""
@@ -110,29 +119,39 @@
     NSLog(@"%@", errorMessage);
 }
 -(void)responseFromServiceWasReceived:(NSString *)responseJSONAsString andResponseJSONAsData:(NSData *)responseJSONAsData{
-    if ([responseJSONAsString rangeOfString:@"family_name"].location != NSNotFound) {
-        NSError *error;
-        NSMutableDictionary *dictionary = [NSJSONSerialization JSONObjectWithData:responseJSONAsData
-                                                                          options:NSJSONReadingMutableContainers
-                                                                            error:&error];
-        if (error) {
-            NSLog(@"An error occured while converting JSON data to dictionary.");
-            return;
-        }
-        else{
-            if (_arrProfileInfoLabel != nil) {
-                _arrProfileInfoLabel = nil;
-                _arrProfileInfo = nil;
-                _arrProfileInfo = [[NSMutableArray alloc] init];
-            }
-            
-            _arrProfileInfoLabel = [[NSMutableArray alloc] initWithArray:[dictionary allKeys] copyItems:YES];
-            for (int i=0; i<[_arrProfileInfoLabel count]; i++) {
-                [_arrProfileInfo addObject:[dictionary objectForKey:[_arrProfileInfoLabel objectAtIndex:i]]];
-            }
-            
-            [_tableView reloadData];
-        }
+    NSError *error;
+    NSMutableDictionary *dictionary = [NSJSONSerialization JSONObjectWithData:responseJSONAsData
+                                                                      options:NSJSONReadingMutableContainers
+                                                                        error:&error];
+    if (error) {
+        NSLog(@"An error occured while converting JSON data to dictionary.");
+        return;
     }
+    NSLog(@"%@", dictionary);
+    
+//    if ([responseJSONAsString rangeOfString:@"family_name"].location != NSNotFound) {
+//        NSError *error;
+//        NSMutableDictionary *dictionary = [NSJSONSerialization JSONObjectWithData:responseJSONAsData
+//                                                                          options:NSJSONReadingMutableContainers
+//                                                                            error:&error];
+//        if (error) {
+//            NSLog(@"An error occured while converting JSON data to dictionary.");
+//            return;
+//        }
+//        else{
+//            if (_arrProfileInfoLabel != nil) {
+//                _arrProfileInfoLabel = nil;
+//                _arrProfileInfo = nil;
+//                _arrProfileInfo = [[NSMutableArray alloc] init];
+//            }
+//            
+//            _arrProfileInfoLabel = [[NSMutableArray alloc] initWithArray:[dictionary allKeys] copyItems:YES];
+//            for (int i=0; i<[_arrProfileInfoLabel count]; i++) {
+//                [_arrProfileInfo addObject:[dictionary objectForKey:[_arrProfileInfoLabel objectAtIndex:i]]];
+//            }
+//            
+//            [_tableView reloadData];
+//        }
+//    }
 }
 @end

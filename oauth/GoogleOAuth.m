@@ -490,6 +490,13 @@ postParameterValues:(NSArray *)values{
     else{
         // Create a string containing the API URL along with the access token.
         NSString *urlString = [NSString stringWithFormat:@"%@?access_token=%@", apiURL, [_accessTokenInfoDictionary objectForKey:@"access_token"]];
+        
+        
+        if (httpMethod == httpMethod_GET) {
+            urlString = [urlString stringByAppendingString:@"&part=contentDetails&mine=true"];
+        }
+        
+        
         // Create a mutable request.
         NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:urlString]];
         
@@ -533,6 +540,7 @@ postParameterValues:(NSArray *)values{
             [request setHTTPBody:[postParams dataUsingEncoding:NSUTF8StringEncoding]];
             [request setValue:@"application/x-www-form-urlencoded" forHTTPHeaderField:@"Content-Type"];
         }
+        
         
         
         // Make the request.
